@@ -44,7 +44,7 @@ The system has three main user roles:
 
 The following diagram illustrates the main 15 use cases and the interactions between system actors.
 
-![University Service Navigator Use Case Diagram](use-case-diagram.png)
+![University Service Navigator Use Case Diagram](Screenshot%202026-11-02%20220105.png)
 
 ## 📋 Project Requirements & Tasks
 
